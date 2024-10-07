@@ -28,6 +28,8 @@
   transform: translate(-50%, -50%);
   text-align: center;
   width: 100%;
+  transition-timing-function: ease;
+  
   
 }
 .div1 h1 {
@@ -48,6 +50,7 @@
   background-color: rgb(255, 140, 0);
   color: gray;
 }
+
 #grid_groups_wrapper {
   max-width: 800px;
 }
@@ -201,7 +204,7 @@ i{
 }
 #blue-bg {
   width: 100%;
-  height: 900px;
+  height: 700px;
   background-color: #030340;
   color: white;
 
@@ -301,9 +304,9 @@ i{
   margin-top: 20px;
   margin-left: 40px;
 }
-#us {
+/* #us {
   background-image: url(https://www.akshartours.com/wp-content/uploads/2020/01/New-York-City.jpeg);
-}
+} */
 
 
 
